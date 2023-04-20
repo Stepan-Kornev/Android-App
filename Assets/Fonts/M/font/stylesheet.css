@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-300.eot');
+    src: local('Museo 300'), local('Museo-300'),
+        url('Museo-300.eot?#iefix') format('embedded-opentype'),
+        url('Museo-300.woff2') format('woff2'),
+        url('Museo-300.woff') format('woff'),
+        url('Museo-300.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-900Italic.eot');
+    src: local('Museo 900 Italic'), local('Museo-900Italic'),
+        url('Museo-900Italic.eot?#iefix') format('embedded-opentype'),
+        url('Museo-900Italic.woff2') format('woff2'),
+        url('Museo-900Italic.woff') format('woff'),
+        url('Museo-900Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-900.eot');
+    src: local('Museo 900'), local('Museo-900'),
+        url('Museo-900.eot?#iefix') format('embedded-opentype'),
+        url('Museo-900.woff2') format('woff2'),
+        url('Museo-900.woff') format('woff'),
+        url('Museo-900.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-700.eot');
+    src: local('Museo 700'), local('Museo-700'),
+        url('Museo-700.eot?#iefix') format('embedded-opentype'),
+        url('Museo-700.woff2') format('woff2'),
+        url('Museo-700.woff') format('woff'),
+        url('Museo-700.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-300Italic.eot');
+    src: local('Museo 300 Italic'), local('Museo-300Italic'),
+        url('Museo-300Italic.eot?#iefix') format('embedded-opentype'),
+        url('Museo-300Italic.woff2') format('woff2'),
+        url('Museo-300Italic.woff') format('woff'),
+        url('Museo-300Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-100.eot');
+    src: local('Museo 100'), local('Museo-100'),
+        url('Museo-100.eot?#iefix') format('embedded-opentype'),
+        url('Museo-100.woff2') format('woff2'),
+        url('Museo-100.woff') format('woff'),
+        url('Museo-100.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-500.eot');
+    src: local('Museo 500'), local('Museo-500'),
+        url('Museo-500.eot?#iefix') format('embedded-opentype'),
+        url('Museo-500.woff2') format('woff2'),
+        url('Museo-500.woff') format('woff'),
+        url('Museo-500.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-500Italic.eot');
+    src: local('Museo 500 Italic'), local('Museo-500Italic'),
+        url('Museo-500Italic.eot?#iefix') format('embedded-opentype'),
+        url('Museo-500Italic.woff2') format('woff2'),
+        url('Museo-500Italic.woff') format('woff'),
+        url('Museo-500Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-100Italic.eot');
+    src: local('Museo 100 Italic'), local('Museo-100Italic'),
+        url('Museo-100Italic.eot?#iefix') format('embedded-opentype'),
+        url('Museo-100Italic.woff2') format('woff2'),
+        url('Museo-100Italic.woff') format('woff'),
+        url('Museo-100Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo-700Italic.eot');
+    src: local('Museo 700 Italic'), local('Museo-700Italic'),
+        url('Museo-700Italic.eot?#iefix') format('embedded-opentype'),
+        url('Museo-700Italic.woff2') format('woff2'),
+        url('Museo-700Italic.woff') format('woff'),
+        url('Museo-700Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
